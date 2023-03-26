@@ -1,0 +1,11 @@
+
+body{
+    background: rgb(223, 237, 229);
+    padding: 0 10px;
+}
+.suv{
+    text-align: center;
+}
+#about{
+    text-align: end;
+}
